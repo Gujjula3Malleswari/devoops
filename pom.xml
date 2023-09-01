@@ -34,12 +34,12 @@
                 <sonar.token>
 sqp_a3f81ee3dd8978cea371b0c4931e92d7fa4fdb6a
                 </sonar.token>
-                <sonar.login>
+              <!--  <sonar.login>
                     admin
                 </sonar.login>
                 <sonar.password>
                    Malleswari@2004
-                </sonar.password>
+                </sonar.password> -->
 
             </properties>
         </profile>
